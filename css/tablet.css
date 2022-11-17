@@ -1,0 +1,23 @@
+#popular-hotel h2 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 4%;
+  width: auto;
+}
+
+#popular-hotel h2 i {
+  margin-left: auto;
+}
+
+.card-popular {
+  width: 96%;
+  max-height: 45%;
+  margin-bottom: 5%;
+
+}
+
+.review-popular {
+  margin-top: auto;
+  color: #0065fc;
+}
+
